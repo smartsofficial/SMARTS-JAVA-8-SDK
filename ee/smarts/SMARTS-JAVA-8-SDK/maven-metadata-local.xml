@@ -4,8 +4,8 @@
   <artifactId>SMARTS-JAVA-8-SDK</artifactId>
   <versioning>
     <versions>
-      <version>0.0.3-SNAPSHOT</version>
+      <version>0.0.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180913190103</lastUpdated>
+    <lastUpdated>20180913191523</lastUpdated>
   </versioning>
 </metadata>
