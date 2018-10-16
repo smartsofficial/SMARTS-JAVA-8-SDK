@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>ee.smarts</groupId>
+  <artifactId>SMARTS-JAVA-8-SDK</artifactId>
+  <version>0.0.14-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20181016175036</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.14-SNAPSHOT</value>
+        <updated>20181016175036</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.14-SNAPSHOT</value>
+        <updated>20181016175036</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
